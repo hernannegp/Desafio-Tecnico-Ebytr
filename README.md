@@ -19,17 +19,19 @@ Contexto:
 
 ## Como rodar:
 
+- Este projeto usa MongoDB como banco de dados principal então é preciso ter ele instalado localmente pra rodar o projeto, segue a documentação pra instalação: `https://docs.mongodb.com/manual/installation/`
+
 - Abra o terminal: `CTRL + ALT + T`
 - Clone o projeto com o comando: `git@github.com:hernannegp/Desafio-Tecnico-Ebytr.git`
-- Se não tiver uma chave SSH cadastrada ultilize: `https://github.com/hernannegp/Desafio-Tecnico-Ebytr.git`
-- Após isso vá para a pasta ultilizando o terminal com o comando: `cd Desafio-Tecnico-Ebytr`
+- Se não tiver uma chave SSH cadastrada utilize: `https://github.com/hernannegp/Desafio-Tecnico-Ebytr.git`
+- Após isso vá para a pasta utilizando o terminal com o comando: `cd Desafio-Tecnico-Ebytr`
 
 ## Back-End: 
 
 - Ainda seguindo os passos de Como Rodar
 - Com o terminal aberto navegue ate a pasta do projeto com o comando: `cd Desafio-Tecnico-Ebytr`
 - Agora na pasta raiz insira o comando: `cd back-end`
-- Estamos quase la, ainda na pasta raiz insira: `npm install` ou `npm i`
+- Estamos quase la, dentro da pasta back-end: `npm install` ou `npm i`
 - Agora a cereja do bolo, insira o comando: `npm start` e a aplicação back-end esta pronta
 
 ## Front-end:
