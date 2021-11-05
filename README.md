@@ -19,4 +19,19 @@ Contexto:
 
 ## Como rodar:
 
-`em construção`
+- Abra o terminal: `CTRL + ALT + T`
+- Clone o projeto com o comando: `git@github.com:hernannegp/Desafio-Tecnico-Ebytr.git`
+- Se não tiver uma chave SSH cadastrada ultilize: `https://github.com/hernannegp/Desafio-Tecnico-Ebytr.git`
+- Após isso vá para a pasta ultilizando o terminal com o comando: `cd Desafio-Tecnico-Ebytr`
+
+## Back-End: 
+
+- Ainda seguindo os passos de Como Rodar
+- Com o terminal aberto navegue ate a pasta do projeto com o comando: `cd Desafio-Tecnico-Ebytr`
+- Agora na pasta raiz insira o comando: `cd back-end`
+- Estamos quase la, ainda na pasta raiz insira: `npm install` ou `npm i`
+- Agora a cereja do bolo, insira o comando: `npm start` e a aplicação back-end esta pronta
+
+## Front-end:
+
+- Não iniciado
